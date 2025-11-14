@@ -1,0 +1,46 @@
+# ---- Python build and cache ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.log
+
+# ---- Virtual environments ----
+.venv/
+venv/
+env/
+ENV/
+
+# ---- Environment & secrets ----
+.env
+.env.*
+*.json          # service account keys or config files
+secrets.toml
+credentials/
+
+# ---- Streamlit & runtime files ----
+.streamlit/
+assets/tts/      # generated audio files
+*.wav
+*.mp3
+
+# ---- Temporary or backup files ----
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.swp
+
+# ---- IDE / editor specific ----
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ---- OS / OneDrive noise ----
+desktop.ini
+*.lnk
+~$*
+OneDriveTemp/

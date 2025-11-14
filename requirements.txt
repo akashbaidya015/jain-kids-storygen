@@ -1,0 +1,5 @@
+python-dotenv==1.0.1
+streamlit==1.39.0
+google-genai==0.3.0
+azure-cognitiveservices-speech==1.40.0    # only if you enable TTS
+google-cloud-texttospeech

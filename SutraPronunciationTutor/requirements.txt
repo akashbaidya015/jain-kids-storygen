@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+azure-cognitiveservices-speech
+audio-recorder-streamlit
+gTTS
+pydub
+faster-whisper
+

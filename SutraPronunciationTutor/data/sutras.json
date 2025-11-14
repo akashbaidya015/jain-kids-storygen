@@ -1,0 +1,47 @@
+[
+  {
+    "id": "navkar_mantra",
+    "title": "Navkar Mantra",
+    "script": "णमो अरिहंताणं\nणमो सिद्धाणं\nणमो आयरियाणं\nणमो उवज्झायाणं\nणमो लोए सव्वसाहूणं",
+    "transliteration": "Namo Arihantāṇam\nNamo Siddhāṇam\nNamo Āyariyāṇam\nNamo Uvajjhāyāṇam\nNamo Loe Savva-Sāhūṇam",
+    "translation": "I bow to the Arihantas (victorious enlightened beings).\nI bow to the Siddhas (liberated souls).\nI bow to the Āchāryas (spiritual leaders).\nI bow to the Upādhyāyas (spiritual teachers).\nI bow to all Sādhus (ascetics) in the universe.\nThese fivefold obeisances destroy all karmas and are the highest auspicious mantra.",
+    "locale": "hi-IN",
+    "voice": "hi-IN-SwaraNeural",
+    "tts_language": "hi",
+    "tips": [
+      "Keep all five lines in the same slow, steady rhythm.",
+      "Lightly nasalize ‘ṇ’ in ‘Arihantāṇam’, ‘Siddhāṇam’, ‘Sāhūṇam’.",
+      "Do not rush ‘Savva-Sāhūṇam’ – let the double consonants be clear."
+    ]
+  },
+  {
+    "id": "logassa_path",
+    "title": "Logassa Path (Verses 1–7)",
+    "script": "लोगस्स उज्जोअगरे, धम्म तित्थयरे जिणे।\nअरिहंते कित्तइस्सं, चउवीसंपि केवली ।।\nउसभमजियं च वंदे, संभवमभिणंदणं च सुमई च।\nपउमप्पहं सुपासं, जिणं च चंदप्पहं वंदे।।\nसुविहिं च पुप्फदंत, सीअल सिज्जंस, वासुपुज्जं च।\nविमलमणतं च जिणं, धम्म सतिं च वंदामि।।\nकुंथु अरं च मल्लिं, वंदे मुणिसुव्वयं नमिजिणं च।\nवंदामि रिट्टनेमि, पासं तह वद्धमाणं च ।।\nएवं मए अभिथुआ, विहूयरयमला पहीणजरमरणा।\nचउवीसंपि जिणवरा, तित्थयरा मे पसीयंतु।।\nकित्तिय वदिय महिया, जे ए लोगस्स उत्तमा सिद्धा।\nआरुग्ग बोहिलाभं, समाहिवरमुत्तमं दितु ।।\nचंदेसु निम्मलयरा, आइच्चेसु अहियं पयासयरा।\nसागरवर गंभीरा, सिद्धा सिद्धिं मम दिसंतु ।।",
+    "transliteration": "Logassa ujjoagare, dhamma titthayare jiṇe;\nArihaṃte kittaiassaṃ, cauvīsampi kevalī.\nUsabham ajiaṃ ca vande, saṃbhavam abhiṇaṃdaṇaṃ ca Sumaiṃ ca;\nPauma-ppahaṃ Supāsaṃ, jiṇaṃ ca Caṃdappahaṃ vande.\nSuvihiṃ ca Pupphadaṃtaṃ, Sīala-Sijjaṃsaṃ Vāsupujjaṃ ca;\nVimala-Maṇataṃ ca jiṇaṃ, Dhamma-Saṭiṃ ca vandāmi.\nKuhuṃthu Araṃ ca Malliṃ, vande Muṇisuvvayaṃ Nami-jiṇaṃ ca;\nVandāmi Riṭṭa-Nemiṃ, Pāsaṃ taha Vaddhamāṇaṃ ca.\nEvaṃ mae abhithuā, vihūya raya-malā pahīṇa-jara-maraṇā;\nCauvīsampi jiṇavarā, titthayarā me pasīyaṃtu.\nKittiya-vadiya-mahiyā, je e logassa uttamā Siddhā;\nĀrugga-bohilaabhaṃ, samāhi-varam-uttamaṃ dītu.\nCaṃdesu nimmalaya-rā, aiccesu ahiaṃ payāsayarā;\nSāgaravara-gambhīrā, Siddhā siddhiṃ mama disaṃtu.",
+    "translation": "In this world I praise the Jinas, establishers of the dharma-tirtha, the twenty-four Kevalīs – Ṛṣabha, Ajita, Saṃbhava, Abhinandana, Sumati, Padmaprabha, Supārśva, Candra-prabha.\nI bow to Suvidhi (Suvidhinātha), Puṣpadanta, Śītala, Śreyāṃsa, Vāsupūjya, Vimalanātha, Anantnātha, Dharmanātha, Śāntinātha, Kuṃthanātha, Aranātha, Mallinātha, Munisuvrata, Naminātha, Ariṣṭanemi, Pārśvanātha and Vardhamāna Mahāvīra.\nThus praised by me are those twenty-four Jinas, free from karmic dust, free from old age and death; may those Tīrthaṅkaras be pleased with me.\nMay the supreme Siddhas of this universe, who are praised by speech, mind and body, grant me health, right understanding, and the highest state of equanimity.\nPure like the moon, brighter than the sun, deep like the ocean – may those Siddhas grant me liberation.",
+    "locale": "hi-IN",
+    "voice": "hi-IN-SwaraNeural",
+    "tts_language": "hi",
+    "tips": [
+      "Chant in a flowing Prakrit style; don’t over-Sanskritize sounds like ‘savva’, ‘jiṇaṃ’.",
+      "Use light pauses at ‘।’ and ‘।।’ to keep the traditional cadence.",
+      "Keep the Tirthankara names very clear, each name getting its own weight."
+    ]
+  },
+  {
+    "id": "bhaktamar_stotra_1_3",
+    "title": "Bhaktamar Stotra – Verses 1–3",
+    "script": "भक्तामर प्रणत मौलिमणि प्रभाणा।\nमुद्योतकं दलित पाप तमोवितानम् ॥\nसम्यक् प्रणम्य जिन पादयुगं युगादा।\nवालंबनं भवजले पततां जनानाम् ॥\n\nयः संस्तुतः सकल वाङ्मय तत्वबोधा।\nदुद्भूत बुद्धिपटुभिः सुरलोकनाथैः ॥\nस्तोत्रैर्जगत्त्रितय चित्तहरैरुदारैः।\nस्तोष्ये किलाहमपि तं प्रथमं जिनेन्द्रम् ॥\n\nबुद्ध्या विनाऽपि विबुधार्चित पादपीठं।\nस्तोतुं समुद्यत मतिर्विगतत्रपोऽहम् ॥\nबालं विहाय जलसंस्थितमिन्दुबिम्बम्।\nमन्यः क इच्छति जनः सहसा ग्रहीतुम् ॥",
+    "transliteration": "Bhaktāmara praṇata-mauli-maṇi-prabhāṇā,\nMudyotakaṃ dalita-pāpa-tamo-vitānam;\nSamyak praṇamya jina-pāda-yugaṃ yugādau,\nVālambanaṃ bhava-jale patatāṃ janānām.\n\nYaḥ saṃstutaḥ sakala-vāṅmaya-tattva-bodhād,\nUdbhūta-buddhi-paṭubhiḥ sura-loka-nāthaiḥ;\nStotraiḥ jagat-tritaya-citta-haraiḥ udāraiḥ,\nStoṣye kilāham api taṃ prathamaṃ Jinendram.\n\nBuddhyā vināpi vibudhārcita-pāda-pīṭhaṃ,\nStotuṃ samudyata-matir vigata-trapo’ham;\nBālaṃ vihāya jala-saṃsthita-mindu-bimbaṃ,\nManyaḥ ka icchati janaḥ sahasā grahītum.",
+    "translation": "The radiance of the jewels in the crowns of bowed devotees is reflected in your glory, O Lord, which destroys the vast darkness of sins. At the very beginning of the age, I bow to your pair of lotus feet, the support for beings drowning in the ocean of existence.\nYou are the First Jinendra, praised by the lords of heaven with noble hymns born of complete scriptural insight, stealing the minds of beings of all three worlds. I too, though small, will sing the praise of that same Supreme Jina.\nThough lacking sufficient intellect, I, without shame, set out to praise your feet, worshipped by the wise gods. For apart from a child, who would try to grasp the reflection of the moon in the water?",
+    "locale": "hi-IN",
+    "voice": "hi-IN-MadhurNeural",
+    "tts_language": "hi",
+    "tips": [
+      "Use a gentle, devotional Indian chanting tone; let each line breathe.",
+      "Sustain long vowels in words like ‘Bhaktāmara’, ‘pāda-yugam’, ‘Jinendram’.",
+      "Keep consonant clusters (e.g., ‘tamo-vitānam’, ‘jagat-tritaya’) clear but smooth, without breaking the musical flow."
+    ]
+  }
+]
